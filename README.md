@@ -2,7 +2,7 @@
 
 I build **LLM systems**: MoE inference optimization, training and RL infrastructure, and high-performance C++ execution engines.
 
-- 🎓 M.Eng. student at **Beihang University** (National Excellent Engineers program, AI track; degree major: Mechanical Engineering), 2025–2028
+- 🎓 Master's student at **Beihang University**, AI track, 2025–2028
 - 🎓 B.Eng., School of Computer Science, Beihang University, 2021–2025 (GPA 3.8/4.0)
 - 🔍 Looking for **2027 internships in LLM training / inference infrastructure**, on-site or remote
 - 📫 [emmmvkdeng@gmail.com](mailto:emmmvkdeng@gmail.com)
